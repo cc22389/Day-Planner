@@ -4,4 +4,4 @@ Here is a Day Planner that will save the users input via the adjacent save butto
 
 ![day planner example](./Assets/Day-Planner-Example.PNG)
 
-https://cc22389.github.io/Day-Planner/.
+https://cc22389.github.io/Day-Planner/Develop/index.html
